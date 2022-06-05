@@ -22,26 +22,26 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6281213184348','6282143695674','6283867962514'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6281213184348'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6281213184348' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'KaX' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Kayzen-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'KayX' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
-global.email = 'riychdwaynee@gmail.com'
+global.youtube = 'https://youtu.be/dQw4w9WgXcQ'
+global.ig = 'https://instagram.com/kayzen24'
+global.mygc = 'https://chat.whatsapp.com/Eo5xjPOaVqJ9gfHpncUMB7'
+global.myweb = 'httt;//samanea.co.id'
+global.email = 'aditzxy@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© Kayzen-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
